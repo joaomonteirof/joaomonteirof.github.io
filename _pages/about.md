@@ -23,5 +23,5 @@ Besides the verification setting briefly described, further machine learning top
 * Multi-modal approaches, e.g. models for audiovisual data, Image+Text, and so on.
 
 
-# Academic Services
+# Academic service
 * Reviewer: ICML 2020, NeurIPS 2020, IEEE Signal Processing Letters.
