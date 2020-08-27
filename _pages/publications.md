@@ -22,7 +22,7 @@ M. Ravanelli, J. Zhong, S. Pascual, P. Swietojanski, <b>J. Monteiro</b>, J. Trma
 
 <b>Multi-objective training of Generative Adversarial Networks with multiple discriminators</b> <br> 
 <b>J. Monteiro</b>\*, I. Albuquerque\*, T. Doang, B. Considine, T. Falk, I. Mitliagkas <br> 
-<i>arxiv:1901.08680, 36th International Conference on Machine Learning (ICML), 2019.</i> \* Equal contribution
+<i>36th International Conference on Machine Learning (ICML), 2019.</i> arxiv:1901.08680 \* Equal contribution
 
 <b>Online Adaptative Curriculum Learning for GANs</b> <br> 
 T. Doan, <b>J. Monteiro</b>, I. Albuquerque, B. Mazoure, A. Durand, J. Pineau, R. D. Hjelm. <br> 
