@@ -24,4 +24,4 @@ Besides the verification setting briefly described, further machine learning top
 
 
 # Academic service
-* Reviewer: ICML 2020, NeurIPS 2020, IEEE Signal Processing Letters.
+* Reviewer: AISTATS2020, ICML 2020, NeurIPS 2020, IEEE Signal Processing Letters.
