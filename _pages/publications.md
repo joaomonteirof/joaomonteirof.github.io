@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>Domain Conditional Predictors for Domain Adaptation</b> <br> 
+<b>J. Monteiro</b>, X. Gibert, J. Feng, V. Dumoulin, D.S. Lee. <br> 
+<i>Pre-registration workshop, NeurIPS 2020. (https://research.google/pubs/pub49830/)</i>
+
 <b>An end-to-end approach for the verification problem: learning the right distance</b> <br> 
 <b>J. Monteiro</b>, I. Albuquerque, J. Alam, R. D. Hjelm, T. Falk. <br> 
 <i>37th International Conference on Machine Learning (ICML), 2020. arXiv:2002.09469</i>
