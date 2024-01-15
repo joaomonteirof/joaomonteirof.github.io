@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joao Monteiro"
 title_separator          : "-"
 name                     : &name "Joao Monteiro"
-description              : &description "Ph.D. candidate, INRS-EMT"
+description              : &description "Research Scientist, ServiceNow Research"
 url                      : https://joaomonteirof.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joaomonteirof/joaomonteirof.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Joao Monteiro"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. candidate, INRS-EMT"
-  location         : "Montreal"
+  bio              : "Research Scientist, ServiceNow Research"
+  location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=hkO47vsAAAAJ&view_op=list_works&sortby=pubdate"

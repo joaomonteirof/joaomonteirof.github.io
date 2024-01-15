@@ -3,6 +3,53 @@ title: "Selected publications [(Complete list)](https://scholar.google.ca/citati
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+<b>Group Robust Classification Without Any Group Information</b> <br> 
+C. Tsirigotis, <b>J. Monteiro</b>, P. Rodríguez, D. Vázquez, A. Courville. <br> 
+<i>NeurIPS 2023. <https://arxiv.org/abs/2310.18555/></i>
+
+<br>
+<b>CADet: Fully Self-Supervised Out-Of-Distribution Detection With Contrastive Learning</b> <br> 
+C. Guilles-Escuret, P. Rodríguez, D. Vázquez, I. Mitliagkas, <b>J. Monteiro</b>. <br> 
+<i>NeurIPS 2023. <https://openreview.net/pdf?id=QRAS5wSgEy/></i>
+
+<br>
+<b>Constraining Representations Yields Models That Know What They Don't Know</b> <br> 
+<b>J. Monteiro</b>, XP. Rodríguez, P. A. Noël, I. Laradji, D. Vázquez. <br> 
+<i>ICLR 2023. <https://arxiv.org/abs/2208.14488/></i>
+
+<br>
+<b>Multilingual Code Retrieval Without Paired Data: A New Benchmark and Experiments</b> <br> 
+<b>J. Monteiro</b>, T. Scholak, V. Mehta, D. Vázquez, C. Pal. <br> 
+<i>Deep Learning for Code workshop, ICLR 2023. <https://dl4c.github.io/assets/pdf/papers/12.pdf/></i>
+
+<br>
+<b>StarCoder: may the source be with you!</b> <br> 
+Lengthy author list omitted. <br> 
+<i>TMLR 2023. <https://openreview.net/pdf?id=KoFOg41haE/></i>
+
+<br>
+<b>Monotonicity Regularization: Improved Penalties and Novel Applications to Disentangled Representation Learning and Robust Classification</b> <br> 
+<b>J. Monteiro</b>, M. O. Ahmed, H. Hajimirsadeghi, G. Mori. <br> 
+<i>UAI 2022. <https://proceedings.mlr.press/v180/monteiro22a.html/></i>
+
+<br>
+<b>Estimating Distribution Shifts for Predicting Cross-Subject Generalization in Electroencephalography-based Mental Workload Assessment</b> <br> 
+I. Albuquerque, <b>J. Monteiro</b>, O. Rosanne, T. Falk. <br> 
+<i>Frontiers in Artificial Intelligence 2022. <https://www.frontiersin.org/articles/10.3389/frai.2022.992732/full/></i>
+
+<br>
+<b>Not Too Close and Not Too Far: Enforcing Monotonicity Requires Penalizing The Right Points</b> <br> 
+<b>J. Monteiro</b>, M. O. Ahmed, H. Hajimirsadeghi, G. Mori. <br> 
+<i>eXplainable AI approaches for debugging and diagnosis workshop at NeurIPS 2021. <https://openreview.net/pdf?id=xdFqKVlDHnY/></i>
+
+
+
+
+
+
+
 <br>
 <b>Domain Conditional Predictors for Domain Adaptation</b> <br> 
 <b>J. Monteiro</b>, X. Gibert, J. Feng, V. Dumoulin, D.S. Lee. <br> 
