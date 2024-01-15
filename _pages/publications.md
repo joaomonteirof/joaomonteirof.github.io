@@ -42,13 +42,7 @@ I. Albuquerque, <b>J. Monteiro</b>, O. Rosanne, T. Falk. <br>
 <br>
 <b>Not Too Close and Not Too Far: Enforcing Monotonicity Requires Penalizing The Right Points</b> <br> 
 <b>J. Monteiro</b>, M. O. Ahmed, H. Hajimirsadeghi, G. Mori. <br> 
-<i>eXplainable AI approaches for debugging and diagnosis workshop at NeurIPS 2021. <https://openreview.net/pdf?id=xdFqKVlDHnY/></i>
-
-
-
-
-
-
+<i>eXplainable AI approaches for debugging and diagnosis workshop at NeurIPS 2021. <https://openreview.net/pdf?id=xdFqKVlDHnY></i>
 
 <br>
 <b>Domain Conditional Predictors for Domain Adaptation</b> <br> 
@@ -78,23 +72,3 @@ M. Ravanelli, J. Zhong, S. Pascual, P. Swietojanski, <b>J. Monteiro</b>, J. Trma
 <b>Online Adaptative Curriculum Learning for GANs</b> <br> 
 T. Doan, <b>J. Monteiro</b>, I. Albuquerque, B. Mazoure, A. Durand, J. Pineau, R. D. Hjelm. <br> 
 <i>The 33rd AAAI Conference on Artificial Intelligence, 2019.</i> arXiv:1808.00020
-
-<b>Residual Convolutional Neural Network with Attentive Feature Pooling for End-To-End Language Identification from Short-Duration Speech</b> <br> 
-<b>J. Monteiro</b>, J. Alam, T. H. Falk. <br> 
-<i>Computer Speech and Language.</i>
-
-<b>Combining Speaker Recognition and Metric Learning for Speaker-Dependent Representation Learning</b> <br> 
-<b>J. Monteiro</b>, J. Alam, T. H. Falk. <br> 
-<i>Interspeech, 2019.</i>
-
-<b>Generalizable Adversarial Examples Detection Based on Bi-model Decision Mismatch</b> <br> 
-<b>J. Monteiro</b>, I. Albuquerque, Z. Akhtar and T. Falk. <br> 
-<i>IEEE SMC, 2019.</i>
-
-<b>SpeakerGAN: Recognizing Speakers in New Languages using Generative Adversarial Networks</b> <br> 
-G. Bhattacharya, <b>J. Monteiro</b>, J. Alam, and P. Kenny. <br> 
-<i>Interpretability and Robustness for Audio, Speech and Language Workshop at the 32nd NeurIPS, 2018.</i>
-
-<b>Resonant third order nonlinear optical susceptibility of gold nanoparticles</b> <br> 
-<b>J. Monteiro</b>, L. A. Goméz. <br> 
-<i>Journal of the Optical Society of America B, 2012.</i>
