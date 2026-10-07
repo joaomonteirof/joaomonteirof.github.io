@@ -54,20 +54,13 @@ include:
   - _pages
   - files
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
   - .bundle
-  - .jekyll-assets-cache
   - .jekyll-cache
   - .sass-cache
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
   - node_modules
   - vendor
 keep_files:
